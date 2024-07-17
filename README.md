@@ -1,5 +1,3 @@
-değişim
-
 <h1 align="center">Hi 👋, I'm Emir Elçuk</h1>
 <h3 align="center">Computer Engineer Student at Atılım University</h3>
 
